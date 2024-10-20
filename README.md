@@ -2,6 +2,7 @@
 
 [![duytan's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/l%C3%AA-tr%E1%BA%A7n-duy-t%C3%A2n-81112a23a/)
 [![duytan's Facebook Profile](images/facebook.png)](https://www.facebook.com/duytan.hh)
+[![duytan's Reddit Profile](images/reddit.png)](https://www.reddit.com/user/DuYTano3/)
 
 </br>
 
