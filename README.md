@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm <a href="https://telegram.ord/duytan2003" target="_blank" title="Trinh Minh Triet">Le Tran Duy Tan</a> 👋
 
-<!--
-**letranduytan/letranduytan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![duytan's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/l%C3%AA-tr%E1%BA%A7n-duy-t%C3%A2n-81112a23a/)
+[![duytan's Facebook Profile](images/facebook.png)](https://www.facebook.com/duytan.hh)
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Glad to see you here!
+
+<img align="right" alt="Trinh Minh Triet" src="images/coding.gif" width="400" />
+
+Love interacting with the community, sharing knowledge, and learning new things.
+
+**Talking about personal stuff:**
+
+- 👨 I’m Le Tran Duy Tan (Letranduytan).
+- 😄 Pronouns: he/him/his.
+- 📧 How to reach me: duytan1122003@gmail.com
+- 💬 Telegram: @duytan2003
