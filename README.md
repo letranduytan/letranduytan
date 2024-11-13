@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://telegram.org/duytan2003" target="_blank" title="Trinh Minh Triet">Le Tran Duy Tan</a> 👋
+### Hi there, I'm <a href="https://telegram.org/duytan2003" target="_blank" title="Letranduytan">Le Tran Duy Tan</a> 👋
 
 [![duytan's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/l%C3%AA-tr%E1%BA%A7n-duy-t%C3%A2n-81112a23a/)
 [![duytan's Facebook Profile](images/facebook.png)](https://www.facebook.com/duytan.hh)
