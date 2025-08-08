@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://telegram.org/duytan2003" target="_blank" title="Letranduytan">Le Tran Duy Tan</a> 👋
 
-[![duytan's LinkedIn Profile](images/linkedin.png)](www.linkedin.com/in/duytanhh)
+[![duytan's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/duytanhh/)
 [![duytan's Facebook Profile](images/facebook.png)](https://www.facebook.com/duytan.hh)
 <a href="https://t.me/duytan2003"><img src="images/telegram.png" width="50"></a>
 
